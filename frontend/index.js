@@ -12,6 +12,5 @@ loginBtn.addEventListener("click", () => {
         alert("Enter login credentials")
     }
 })
-// loginBtn.addEventListener("click", () =>{
-//     alert("Login...")
-// })
+
+
